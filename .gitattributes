@@ -1,0 +1,10 @@
+# Forceer GitHub om deze talen mee te tellen in de statistieken
+C#/* linguist-detectable=true
+TypeScript/* linguist-detectable=true
+HTML/* linguist-detectable=true
+CSS/* linguist-detectable=true
+JavaScript/* linguist-detectable=true
+Python/* linguist-detectable=true
+Go/* linguist-detectable=true
+Rust/* linguist-detectable=true
+Java/* linguist-detectable=true
