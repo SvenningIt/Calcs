@@ -1,12 +1,3 @@
-# Forceer mee te tellen
-C#/* linguist-detectable=true
-TypeScript/* linguist-detectable=true
-JavaScript/* linguist-detectable=true
-Python/* linguist-detectable=true
-Go/* linguist-detectable=true
-Rust/* linguist-detectable=true
-Java/* linguist-detectable=true
-
 #forceer onderdruk
 *.html linguist-vendored
 *.css linguist-vendored
