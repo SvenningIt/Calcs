@@ -1,4 +1,5 @@
 #forceer onderdruk
-*.html linguist-vendored
-*.css linguist-vendored
-*.sln linguist-vendored
+#*.html linguist-vendored
+#*.css linguist-vendored
+#*.sln linguist-vendored
+#*.json linguist-vendored
