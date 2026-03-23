@@ -1,0 +1,40 @@
+Getal Een is 5 (Hard coded nummers, want de input werkt raar)
+Getal Twee is 80
+Resultaat is 0
+Operator is nowhere
+
+Write "Getal 1: " (Geen input, boven aan verklaard)
+Shout Getal Een
+
+Write "Operator (+, -, *, /): "
+Listen to Operator
+Shout Operator
+
+Write "Getal 2: " (Geen input, boven aan verklaard)
+Shout Getal Twee
+
+If Operator is "+"
+Let Resultaat be Getal Een with Getal Twee
+Shout Resultaat
+
+Else
+If Operator is "-"
+Let Resultaat be Getal Een without Getal Twee
+Shout Resultaat
+
+Else
+If Operator is "*"
+Let Resultaat be Getal Een of Getal Twee
+Shout Resultaat
+
+Else
+If Operator is "/"
+If Getal Twee is 0
+Shout "Oh noo..."
+
+Else
+Let Resultaat be Getal Een between Getal Twee
+Shout Resultaat
+
+Else
+Shout "Yikes"
